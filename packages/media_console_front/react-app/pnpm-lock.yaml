@@ -198,7 +198,7 @@ devDependencies:
     version: 3.0.6
   '@types/lodash':
     specifier: ^4.17.7
-    version: 4.17.7
+    version: 4.17.15
   '@types/node':
     specifier: ^22.8.4
     version: 22.8.4
@@ -2596,8 +2596,8 @@ packages:
     resolution: {integrity: sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==}
     dev: true
 
-  /@types/lodash@4.17.7:
-    resolution: {integrity: sha512-8wTvZawATi/lsmNu10/j2hk1KEP0IvjubqPE3cu1Xz7xfXXt5oCq3SNUz4fMIP4XGF9Ky+Ue2tBA3hcS7LSBlA==}
+  /@types/lodash@4.17.15:
+    resolution: {integrity: sha512-w/P33JFeySuhN6JLkysYUK2gEmy9kHHFN7E8ro0tkfmlDOgxBDzWEZ/J8cWA+fHqFevpswDTFZnDx+R9lbL6xw==}
     dev: true
 
   /@types/mapbox__point-geometry@0.1.4:
